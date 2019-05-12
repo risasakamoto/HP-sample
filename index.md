@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# 生き物の見た目(形、大きさ、色)を定量化してゲノムとの関連を明らかにする研究をしています。
+### 自己紹介
+生物学、農学、統計学、機械学習、画像解析、ビジネスを広く浅く知っている博士課程生。生き物の見た目(形、大きさ、色)を定量化してゲノムとの関連を明らかにする研究をしています。生き物の画像を取得し、その画像を解析して特徴量を抽出し、その特徴量とゲノムとの関連を解析するパイプラインを作るべく奮闘中。
 
-You can use the [editor on GitHub](https://github.com/risasakamoto/HP-sample/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### 研究分野
+生物測定学、形態計測学、量的遺伝学、画像解析
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 活動報告
+大絶賛就職活動中です。  
+育種学会に参加予定
 
-### Markdown
+### [プロフィール](HP-sample/about.md)
+### [研究概要](HP-sample/res.md)
+### [研究手法](HP-sample/metod.md)
+### [業績](HP-sample/gyouseki.md)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## コンタクト
+[生物測定学研究室](https://sites.google.com/ut-biomet.org/lbm/ホーム)に御一報ください。
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/risasakamoto/HP-sample/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
